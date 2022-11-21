@@ -5,7 +5,7 @@
  * The app has two kinds of excercises: translate and listen. The app must be extensible 
  * and allow new types of excercises to be added in the future.
  * Each type of excercise has a different way of displaying itself, and the behaviour is 
- * managed by a separated classes referenced by a property of the Excercise class. 
+ * managed by separated classes referenced by a property of the Excercise class. 
  * 
  * @author: Gustavo Cieslar
  */
